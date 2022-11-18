@@ -34,14 +34,14 @@ header {
   background-size: 120px;
   background-position: center bottom;
   background-repeat: no-repeat;
-  background-image: url('./assets/mario.png');
+  background-image: url('../assets/mario.png');
   transition-duration: 0.3s;
   transition-delay: 0.1s;
   
 }
 .main.active{
   background-position: center center;
-  background-image: url('./assets/PngItem_505170.png');
+  background-image: url('../assets/PngItem_505170.png');
   transition-duration: 0.3s;
   transition-delay: 0.1s;
 }
