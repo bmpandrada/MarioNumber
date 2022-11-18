@@ -41,13 +41,13 @@ header {
 }
 .main.active{
   background-position: center center;
-  background-image: url("/PngItem_505170.png");
+  background-image: url("./PngItem_505170.png");
   transition-duration: 0.3s;
   transition-delay: 0.1s;
 }
 .main.jump{
   background-position: center 6.5em;
-  background-image: url("/mario-11708.png");
+  background-image: url("./mario-11708.png");
   transition-duration: 0.3s;
   transition-delay: 0.1s;
   
